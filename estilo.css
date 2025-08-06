@@ -1,0 +1,92 @@
+
+@font-face{
+font-family :mine;
+src:url("fuentes/mael.ttf");
+}
+
+body{
+	background-image:url("imagenes/donod2.jpg");
+background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+
+	
+}
+h1{
+	color:white;
+	text-align:center;
+    font-size:50px;
+	font-family:mine;
+	
+}
+h2{
+	color:white;
+	font-family:mine;
+	font-size:35px;
+}
+p{
+	color:white;
+	text-align:justify;
+    line-height:40px;
+    margin-top:20px;
+    margin-left:10%;
+    margin-right:10%;
+    font-size:20px;
+	font-family:Monaco,monospace, sans serif;
+}
+ul{
+	color:white;
+	margin-left:5%;
+	line-height:30px;
+	font-family:Monaco,monospace, sans serif;
+	font-size:20px;
+}
+img{
+	
+}	 
+
+
+a:link{
+        
+		
+	    font-size:20px;
+        font-family:minecraft	;
+	    color:red;
+	   
+		
+}
+
+a:hover{
+	color:#ff0000;
+	border-radius:5px;
+}
+
+a:visited{
+	color:red;
+}
+
+
+table{
+	color:white;
+	font-family:Monaco,monospace, sans serif;
+}
+.armas{
+	 border-style:inset;
+	 border-width:5px;
+     border-color:red;
+}
+.historia{
+	display:block;
+	margin:auto;
+}
+table{
+	margin:auto;
+ 
+	
+}
+td{
+	border-style:solid;
+	border-width:1px;
+	border-spacing:0px;
+}
